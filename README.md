@@ -9,4 +9,4 @@ We can see how well python handles this in order to avoid any conflicts.
 
 ## This image will help you better understand the problem : 
 
-![alt text](https://imgur.com/a/wjVUmhb.jpg)
+![alt text](https://i.imgur.com/OXaCpOk.png)
